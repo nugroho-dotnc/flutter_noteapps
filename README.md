@@ -1,4 +1,4 @@
-### Flutter Note Apps
+### Note Apps
 
 **`Flutter`**
 
